@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginEnd="@dimen/small_margin"
+    android:layout_marginStart="@dimen/small_margin"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/message_content_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxWidth="200dp"
+        android:layout_gravity="end"
+        android:background="@drawable/outgoing_text_msg_bg"
+        android:text="Unable to display message"
+        android:textColor="@android:color/white"
+        android:textSize="16sp" />
+
+</LinearLayout>

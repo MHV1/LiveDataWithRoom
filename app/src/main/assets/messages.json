@@ -1,0 +1,82 @@
+[
+  {
+    "messageId": "1",
+    "senderId": "test_sender",
+    "chatId": "test_chat",
+    "text": "This is message 1",
+    "timestamp": "1528702981",
+    "status": "0"
+  },
+  {
+    "messageId": "2",
+    "senderId": "test_sender",
+    "chatId": "test_chat",
+    "text": "This is message 2",
+    "timestamp": "1528702982",
+    "status": "0"
+  },
+  {
+    "messageId": "3",
+    "senderId": "test_sender",
+    "chatId": "test_chat",
+    "text": "This is message 3",
+    "timestamp": "1528702983",
+    "status": "0"
+  },
+  {
+    "messageId": "4",
+    "senderId": "test_sender",
+    "chatId": "test_chat",
+    "text": "This is message 4",
+    "timestamp": "1528702984",
+    "status": "0"
+  },
+  {
+    "messageId": "5",
+    "senderId": "test_sender",
+    "chatId": "test_chat",
+    "text": "This is message 5",
+    "timestamp": "1528702985",
+    "status": "0"
+  },
+  {
+    "messageId": "6",
+    "senderId": "test_sender",
+    "chatId": "test_chat",
+    "text": "This is message 6",
+    "timestamp": "1528702986",
+    "status": "0"
+  },
+  {
+    "messageId": "7",
+    "senderId": "test_sender",
+    "chatId": "test_chat",
+    "text": "This is message 7",
+    "timestamp": "1528702987",
+    "status": "0"
+  },
+  {
+    "messageId": "8",
+    "senderId": "test_sender",
+    "chatId": "test_chat",
+    "text": "This is message 8",
+    "timestamp": "1528702988",
+    "status": "0"
+  },
+  {
+    "messageId": "9",
+    "senderId": "test_sender",
+    "chatId": "test_chat",
+    "text": "This is message 9",
+    "timestamp": "1528702989",
+    "status": "0"
+  },
+  {
+    "messageId": "10",
+    "senderId": "test_sender",
+    "chatId": "test_chat",
+    "text": "This is message 10",
+    "timestamp": "1528703816",
+    "status": "0"
+  }
+]
